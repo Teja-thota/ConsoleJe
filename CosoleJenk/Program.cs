@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("my name is teja thota");
-            Console.WriteLine("my age is 21");
-            Console.WriteLine("my city is giddalur");
-            Console.WriteLine("pincode:523357");
+            Console.WriteLine("my name is nagendra");
+            Console.WriteLine("my age is 30");
+            Console.WriteLine("my city is markapur");
+            Console.WriteLine("pincode:52765");
         }
     }
 }
